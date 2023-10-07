@@ -1,2 +1,3 @@
 # Coreboot-howto
 A Repo about explaining coreboot. How to get it, a rough understanding of its concept, variants, preinstalled Laptops, other great People...
+
